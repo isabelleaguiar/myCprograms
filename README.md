@@ -1,2 +1,5 @@
 # myCprograms
-It is my 'everything repository' for C and C++ language where I put things that I did when I'm in learning process :)
+
+I put here some C and C++ programs I've made during my learning process. (always under construction)
+
+You can find a program that is a play guess a number with difficulty levels, a program that counts from 0 to 100, and a program that does multiplication for you between two integer numbers.
